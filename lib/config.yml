@@ -1,0 +1,5 @@
+jid: 'publish@localhost'
+password: 'publish'
+service: 'pubsub.localhost'
+node: 'testrealtime'
+debug: true
